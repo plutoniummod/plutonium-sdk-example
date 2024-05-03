@@ -1,0 +1,3 @@
+[submodule "vendor/plutonium-sdk"]
+	path = vendor/plutonium-sdk
+	url = https://github.com/plutoniummod/plutonium-sdk.git
